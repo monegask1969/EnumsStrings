@@ -25,7 +25,7 @@ public class Main {
             System.out.println(ap + " equals " + ap3);
         if(ap == ap3)
             System.out.println(ap + "==" + ap3);
-        
+
         String apple = "GoldenDel";
         Enum apples = Apple.valueOf(apple);
         System.out.println(apples);
